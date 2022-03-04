@@ -1,0 +1,22 @@
+label {
+    margin-left: 40%;
+}
+table,
+td,
+tr,
+thead {
+    text-align: center;
+    border: 2px solid white;
+    vertical-align: middle;
+}
+thead,
+label {
+    font-weight: bold;
+}
+body {
+    background-color: rgb(153, 149, 149);
+}
+input:hover {
+    background-color: grey;
+    color: white;
+}
